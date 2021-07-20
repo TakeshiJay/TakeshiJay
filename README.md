@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TakeshiJay
-- 👀 I’m interested in software engineering and data science application softwares
+- 👀 I’m interested in software engineering algorithms and data science application softwares
 - 🌱 I’m currently learning algorithms in university and am excited to learn how to apply them to real world applications
 - 💞️ I’m looking to collaborate on any new projects that will help keep me excited 
 - 📫 Anyone can reach out to me on my email at naganotakeshi.0@gmail.com

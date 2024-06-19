@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @TakeshiJay
-- 💼 Currently a Software Engineering Consultant and Software Engineer at Northrop Grumman
 - 👀 I’m interested in software engineering algorithms and data science application softwares
 - 🌱 I’m currently learning algorithms in university and am excited to learn how to apply them to real world applications
 - 💞️ I’m looking to collaborate on any new projects that will help me learn more about Software development to help
